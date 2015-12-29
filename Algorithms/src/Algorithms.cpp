@@ -1,6 +1,6 @@
 #include "MaxXor/MaxXor.h"
 
 int main() {
-	maxXor();
-	return 0;
+    maxXor();
+    return 0;
 }
